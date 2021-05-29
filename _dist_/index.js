@@ -34,7 +34,7 @@ window
             //crear imagen
             const imagen = document.createElement('img')  
             imagen.src = baseUrl + item.image
-            imagen.className = 'rounded-full w-30'
+            imagen.className = 'rounded-full w-30 m-auto'
             //crear titulo
             const title = document.createElement('h2')
             title.textContent = item.name
