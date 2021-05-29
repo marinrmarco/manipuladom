@@ -1,4 +1,5 @@
 {
+  "homepage": "https://marinrmarco.github.io/manipuladom",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
